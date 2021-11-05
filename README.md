@@ -1,10 +1,6 @@
 # decoder-ring-capstone
 
-##For testing/submission please use:
+## An interactive example of ancient cryptography principles
 
-1. caesar.js
-2. polybius.js
-3. substitution.js
-
-*caesarASCII, polybiusDecodeFirstTry and polybiusDecode2ndTry are \n
-variations I'm still working on lol :)*
+This project is a demonstration of classic enciphering techniques
+including the Caeasar Shift, Polybius Square and Substitution Cipher.
